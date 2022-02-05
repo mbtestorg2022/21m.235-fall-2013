@@ -67,33 +67,267 @@ Students may bring laptops and other electronic devices to class to access onlin
 Grading
 -------
 
-| ACTIVITES | PERCENTAGES |
-| --- | --- |
-| 3 Exams | 15% each |
-| 2 Concert reports | 10% each |
-| Analytical paper | 10% |
-| Revised and expanded paper | 15% |
-| Presentations and participation | 10% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3 Exams
+{{< tdclose >}}
+{{< tdopen >}}
+15% each
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2 Concert reports
+{{< tdclose >}}
+{{< tdopen >}}
+10% each
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Analytical paper
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Revised and expanded paper
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Presentations and participation
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Calendar
 --------
 
 Course Overview By Week Including Exams And Written Assignments
 
-| WEEK # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| I | Introduction and Monteverdi | &nbsp; |
-| II | Organ Music, Oratorio and Cantata | &nbsp; |
-| III | Music for Court and Chamber | &nbsp; |
-| IV | Class and Classicism | &nbsp; |
-| V | Exam 1 Week | Exam 1 |
-| VI | Concerto and Tonality | &nbsp; |
-| VII | 1685 Part 1 | &nbsp; |
-| VIII | 1685 Part 2 | Concert report 1 due |
-| IX | The Comic Style | Analytical essay due |
-| X | Exam 2 Week | Exam 2 |
-| XI | Enlightenment and Reform | &nbsp; |
-| XII | Haydn: Instrumental Music | &nbsp; |
-| XIII | Mozart: Instrumental Music | Analytical essay revision / expansion due |
-| XIV | Exam 3 Week and In-Class Presentations | Exam 3 |
-| XV | In-Class Presentations (cont.) | Concert report 2 due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+I
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction and Monteverdi
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+II
+{{< tdclose >}}
+{{< tdopen >}}
+Organ Music, Oratorio and Cantata
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+III
+{{< tdclose >}}
+{{< tdopen >}}
+Music for Court and Chamber
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+IV
+{{< tdclose >}}
+{{< tdopen >}}
+Class and Classicism
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+V
+{{< tdclose >}}
+{{< tdopen >}}
+Exam 1 Week
+{{< tdclose >}}
+{{< tdopen >}}
+Exam 1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+VI
+{{< tdclose >}}
+{{< tdopen >}}
+Concerto and Tonality
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+VII
+{{< tdclose >}}
+{{< tdopen >}}
+1685 Part 1
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+VIII
+{{< tdclose >}}
+{{< tdopen >}}
+1685 Part 2
+{{< tdclose >}}
+{{< tdopen >}}
+Concert report 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+IX
+{{< tdclose >}}
+{{< tdopen >}}
+The Comic Style
+{{< tdclose >}}
+{{< tdopen >}}
+Analytical essay due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+X
+{{< tdclose >}}
+{{< tdopen >}}
+Exam 2 Week
+{{< tdclose >}}
+{{< tdopen >}}
+Exam 2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+XI
+{{< tdclose >}}
+{{< tdopen >}}
+Enlightenment and Reform
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+XII
+{{< tdclose >}}
+{{< tdopen >}}
+Haydn: Instrumental Music
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+XIII
+{{< tdclose >}}
+{{< tdopen >}}
+Mozart: Instrumental Music
+{{< tdclose >}}
+{{< tdopen >}}
+Analytical essay revision / expansion due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+XIV
+{{< tdclose >}}
+{{< tdopen >}}
+Exam 3 Week and In-Class Presentations
+{{< tdclose >}}
+{{< tdopen >}}
+Exam 3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+XV
+{{< tdclose >}}
+{{< tdopen >}}
+In-Class Presentations (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Concert report 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
