@@ -138,7 +138,7 @@ _
 
 ### Additional Score
 
-Scheidt, Samuel. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Cantio Sacra: Christ lag in Todesbanden." (PDF)](http://petrucci.mus.auth.gr/imglnks/usimg/c/c5/IMSLP256354-PMLP15682-Scheidt_Christ_lag_in_Todesbanden_SSWV131.pdf) _Tabulatura nova_.
+Scheidt, Samuel. ["Cantio Sacra: Christ lag in Todesbanden." (PDF)](http://petrucci.mus.auth.gr/imglnks/usimg/c/c5/IMSLP256354-PMLP15682-Scheidt_Christ_lag_in_Todesbanden_SSWV131.pdf) _Tabulatura nova_.
 
 _
 {{< tdclose >}}
